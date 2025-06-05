@@ -6,6 +6,8 @@ I am working as a data engineer, data architect and AI expert (Architect and dev
 I want to be highly specialised, on the Finance team and Risk team.
 Basically become a very advanced financial guy with a hefty knowledge in AI and system, an AI/Data Engineer (Architect and developer),  with deep investment and risk domain knowledge
 
+The technologies stack , will be databricks, SQL server, Python, (ML, LLM, NLP, RL libraries), Kafka, docker, MLFlow, and all the one you deems relevant
+
 would you be able to work with me please and build for me a list of task to work on to develop the right experience that will allow me to work in another fund and get a 140000 salary GBP as base salary and a good bonuse?
 I can allocate 6 month or more working full time on the tasks.
 would you be able to be my teacher and tutors and allow me to rich my goals please ?
